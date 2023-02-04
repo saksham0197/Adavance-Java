@@ -37,6 +37,8 @@ public class ArrayListDemo {
 		  Collections.sort(al);
 		  System.out.println(al);
 		  
+		  
+		  System.out.println(al);
 		
 	}
 
