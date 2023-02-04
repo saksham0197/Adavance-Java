@@ -46,6 +46,9 @@ public class LinkedListDemo {
          
          al.clear();  
          System.out.println("After invoking clear() method: "+al); 
+         
+         System.out.println();
+         System.out.println(al);
 
 
 	}

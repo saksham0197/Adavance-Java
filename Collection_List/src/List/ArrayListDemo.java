@@ -36,6 +36,9 @@ public class ArrayListDemo {
 		  System.out.println("=====Sorting of List====");		  
 		  Collections.sort(al);
 		  System.out.println(al);
+		  
+		  System.out.println();
+		  System.out.println(al);
 
 	}
 
